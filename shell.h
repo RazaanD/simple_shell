@@ -33,6 +33,5 @@ int count_routes(char *path);
 int count_arg(char *buff_arg);
 char *_strdup(char *src);
 void free_doble_pointer(char **ptr_to_free);
-int exit_shell(data_shell *datash);
 
 #endif /**SHELL_H*/
