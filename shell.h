@@ -34,4 +34,4 @@ int count_arg(char *buff_arg);
 char *_strdup(char *src);
 void free_doble_pointer(char **ptr_to_free);
 
-#endif
+#endif /**SHELL_H*/
